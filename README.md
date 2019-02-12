@@ -19,6 +19,9 @@ cd subdomain
 python subdomain.py target.com
 
 ==========================================================================
+pkg update & upgrade
+
+pkg install python2
 
 Download file Sub & Extrak filenya
 
@@ -32,7 +35,7 @@ cd subdomain
 
 chmod +x subdomain.py
 
-python subdomain.py target.com
+python2 subdomain.py target.com
 
 ==========================================================================
 
@@ -43,7 +46,6 @@ My Website : http://hackingforlive.cf
 My Facebok : https://web.facebook.com/xroot.xroot.7
 
 Moto : Berbagi Itu Indah
-
 
 
 Regard Boychongzen aka Xroot
