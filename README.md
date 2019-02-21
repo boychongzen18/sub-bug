@@ -50,7 +50,7 @@ My Facebok : https://web.facebook.com/xroot.xroot.7
 
 ===============================================================================
 
-Moto : Berbagi Itu Indah
+# Moto : Berbagi Itu Indah
 
 
-Regard Boychongzen aka Xroot
+# Regard Boychongzen aka Xroot
