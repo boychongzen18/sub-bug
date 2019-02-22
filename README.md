@@ -4,6 +4,8 @@
 
 # Sceenshot
 
+Sceenshot.jpg
+
 Tested : Windows & Termux
 
 Download file Sub & Extrak filenya
