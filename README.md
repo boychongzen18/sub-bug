@@ -2,9 +2,6 @@
 
 # Author : Boychongzen aka Xroot
 
-# Sceenshot
-
-Sceenshot.jpg
 
 Tested : Windows & Termux
 
