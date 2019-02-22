@@ -3,11 +3,6 @@
 # Author : Boychongzen aka Xroot
 
 
-# Sceenshot
-
-Sceenshot.png
-
-
 Tested : Windows & Termux
 
 Download file Sub & Extrak filenya
