@@ -3,8 +3,10 @@ cara Extrak via Termux
 install unrar & Eksekusi
 
 pkg update && pkg upgrade
+pkg install python2
 pkg install unrar
 pkg install git
+pkg install python-dnspython
 
 git clone https://github.com/boychongzen18/sub
 
