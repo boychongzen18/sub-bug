@@ -1,6 +1,6 @@
 cara Extrak via Termux
 
-install unrar
+install unrar & Eksekusi
 
 pkg update && pkg upgrade
 pkg install unrar
@@ -11,7 +11,7 @@ git clone https://github.com/boychongzen18/sub
 cara eksekusinya
 
 cd sub
-unrar sub.rar sub
+unrar x sub.rar sub
 cd sub
 pip2 install -r requirements.txt
 cd subdomain
