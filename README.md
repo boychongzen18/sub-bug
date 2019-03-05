@@ -2,7 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
-https://github.com/boychongzen18/sub/blob/master/Sceenshot.png
+
 
 Tested : Windows & Termux
 
