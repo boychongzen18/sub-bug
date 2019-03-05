@@ -2,6 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
+Sceenshot.png
 
 Tested : Windows & Termux
 
