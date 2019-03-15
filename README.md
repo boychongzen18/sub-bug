@@ -12,6 +12,14 @@ Cara Eksekusi di Windows :
 
 Download Python : https://shortid.co/bFWBm
 
+choco install unrar
+
+git clone https://github.com/boychongzen18/sub.git
+
+cd sub
+
+unrar x sub.rar
+
 cd sub
 
 pip install -r requirements
@@ -24,11 +32,17 @@ python subdomain.py target.com
 
 pkg update & upgrade
 
-pkg install python2
+pkg install git unrar python2 
 
 Download file Sub & Extrak filenya
 
 Cara Eksekusi di Termux :
+
+git clone https://github.com/boychongzen18/sub.git
+
+cd sub
+
+unrar x sub.rar sub
 
 cd sub 
 
