@@ -14,7 +14,7 @@ Download Python : https://shortid.co/bFWBm
 
 choco install unrar
 
-git clone https://github.com/boychongzen18/sub.git
+git clone https://github.com/boychongzen18/sub-bug.git
 
 cd sub
 
@@ -38,7 +38,7 @@ Download file Sub & Extrak filenya
 
 Cara Eksekusi di Termux :
 
-git clone https://github.com/boychongzen18/sub.git
+git clone https://github.com/boychongzen18/sub-bug.git
 
 cd sub
 
