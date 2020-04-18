@@ -58,7 +58,7 @@ python2 subdomain.py target.com
 
 My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/16Mnfd5xdOI
+Link Tutorial : https://youtu.be/gvMAGpnFykw
 
 My Website : https://hackingforlive.wordpress.com
 
