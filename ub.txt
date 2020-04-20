@@ -1,0 +1,102 @@
+Scanning Bughost & IP Univesitas UB
+
+Creator Boychongzen aka Xroot
+
+Specialis Scanning & Proxy
+
+Phreakers Anonymous Indonesia
+
+=====================================================================================================================
+
+Ip Address      Status  Type    Domain Name                     Server
+----------      ------  ----    -----------                     ------
+175.45.184.181  301     host    api.ub.ac.id                    nginx/1.14.1
+175.45.184.193  301     host    apps.ub.ac.id                   nginx/1.12.2
+175.45.184.161  200     alias   as.ub.ac.id                     nginx
+175.45.184.161  200     host    hosting.ub.ac.id                nginx
+175.45.184.11   301     host    auth.ub.ac.id                   nginx/1.14.1
+175.45.184.29   301     alias   be.ub.ac.id                     Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+175.45.184.29   301     host    jurnal.ub.ac.id                 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+175.45.184.5    200     host    blog.ub.ac.id                   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+172.217.175.19  302     alias   calendar.ub.ac.id               ghs
+172.217.175.19  302     host    ghs.googlehosted.com            ghs
+175.45.184.146          host    chat.ub.ac.id
+175.45.186.22   301     host    cloud.ub.ac.id                  Apache/2.4.38 (Debian)
+175.45.185.240          host    cluster.ub.ac.id
+175.45.184.17           host    cms.ub.ac.id
+175.45.185.188  200     host    conference.ub.ac.id             Apache/2.2.15 (CentOS)
+175.45.184.55           host    data.ub.ac.id
+175.45.184.55           host    demo.ub.ac.id
+175.45.186.101          host    dev1 .ub.ac.id
+175.45.185.10           host    devel.ub.ac.id
+175.45.184.80           host    direct.ub.ac.id
+175.45.184.161  200     alias   erp.ub.ac.id                    nginx
+175.45.184.161  200     host    hosting.ub.ac.id                nginx
+175.45.187.196  301     host    fk.ub.ac.id                     Apache/2.2.15 (CentOS)
+175.45.184.25   301     alias   forum.ub.ac.id                  Apache/2.2.3 (CentOS)
+175.45.184.25   301     host    prasetya.ub.ac.id               Apache/2.2.3 (CentOS)
+175.45.186.85           host    games.ub.ac.id
+175.45.184.160  200     alias   hi.ub.ac.id                     Apache
+175.45.184.160  200     host    hosting3.ub.ac.id               Apache
+175.45.184.161  200     alias   ia.ub.ac.id                     nginx
+175.45.184.161  200     host    hosting.ub.ac.id                nginx
+175.45.184.123          host    imap.ub.ac.id
+175.45.184.160  200     alias   io.ub.ac.id                     Apache
+175.45.184.160  200     host    hosting3.ub.ac.id               Apache
+175.45.184.29   301     alias   je.ub.ac.id                     Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+175.45.184.29   301     host    jurnal.ub.ac.id                 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+175.45.184.135          host    ldap.ub.ac.id
+175.45.185.182  302     host    lib.ub.ac.id                    Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.40
+175.45.184.82   302     host    lists.ub.ac.id                  Apache/2.2.3 (CentOS)
+175.45.184.190  301     host    mail.ub.ac.id                   nginx/1.12.2
+175.45.184.161  200     alias   map.ub.ac.id                    nginx
+175.45.184.161  200     host    hosting.ub.ac.id                nginx
+175.45.184.161  200     alias   mw.ub.ac.id                     nginx
+175.45.184.161  200     host    hosting.ub.ac.id                nginx
+175.45.189.60           host    nas.ub.ac.id
+175.45.184.164          host    ns1.ub.ac.id
+175.45.184.72           host    ns2.ub.ac.id
+175.45.184.58           host    ns3.ub.ac.id
+175.45.184.49           host    ns4.ub.ac.id
+175.45.184.73           host    ns5.ub.ac.id
+175.45.184.165          alias   ntp.ub.ac.id
+175.45.184.165          host    ns6.ub.ac.id
+175.45.184.123          host    pop3.ub.ac.id
+175.45.185.212          host    project.ub.ac.id
+175.45.184.161  200     alias   radio.ub.ac.id                  nginx
+175.45.184.161  200     host    hosting.ub.ac.id                nginx
+175.45.184.166          host    radius.ub.ac.id
+175.45.184.127  301     host    s.ub.ac.id                      nginx/1.14.1
+175.45.184.157  301     alias   sim.ub.ac.id                    Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/7.1.7
+175.45.184.157  301     host    simpeg.ub.ac.id                 Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/7.1.7
+175.45.184.119  301     host    sms.ub.ac.id                    Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+175.45.184.19           host    smtp.ub.ac.id
+175.45.184.182          host    snort.ub.ac.id
+175.45.184.10   200     host    staff.ub.ac.id                  Apache/2.4.6 (CentOS) PHP/5.6.40
+175.45.184.15   301     host    static.ub.ac.id                 nginx
+175.45.184.35           host    storage.ub.ac.id
+175.45.184.60           alias   t.ub.ac.id
+175.45.184.60           host    tube.ub.ac.id
+175.45.184.190  301     host    tp.ub.ac.id                     nginx/1.12.2
+175.45.184.204          host    training.ub.ac.id
+175.45.184.161  200     alias   tv.ub.ac.id                     nginx
+175.45.184.161  200     host    hosting.ub.ac.id                nginx
+175.45.184.80           host    upload.ub.ac.id
+175.45.184.60           alias   video.ub.ac.id
+175.45.184.60           host    tube.ub.ac.id
+175.45.186.110          host    vpn.ub.ac.id
+175.45.186.108          host    vpn.ub.ac.id
+175.45.186.105          host    vpn.ub.ac.id
+175.45.186.107          host    vpn.ub.ac.id
+175.45.186.104          host    vpn.ub.ac.id
+175.45.186.109          host    vpn.ub.ac.id
+175.45.186.106          host    vpn.ub.ac.id
+175.45.186.120          host    vpn1.ub.ac.id
+175.45.185.109          host    vpn2.ub.ac.id
+172.217.25.243  301     alias   webmail.ub.ac.id                ghs
+172.217.25.243  301     host    ghs.googlehosted.com            ghs
+175.45.186.106          host    webproxy.ub.ac.id
+175.45.184.32   301     host    wiki.ub.ac.id                   nginx/1.14.1
+175.45.184.75   200     host    ws.ub.ac.id                     Apache/2.2.3 (CentOS)
+175.45.184.8            host    ws2.ub.ac.id
+175.45.184.70   301     host    www.ub.ac.id                    nginx/1.12.2
