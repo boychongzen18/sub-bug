@@ -71,7 +71,7 @@ My Facebok : https://web.facebook.com/xroot.xroot.7
 
 # Regard Boychongzen aka Xroot
 
-# Scanning Via Wndows
+# Scanning Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/sub/master/sub.jpg)
 # Scanning Via VPS
 ![be](https://raw.githubusercontent.com/boychongzen18/sub/master/terminal.jpg)
