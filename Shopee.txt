@@ -1,0 +1,103 @@
+Scanning Bughost & IP Shopee
+
+Creator Boychongzen aka Xroot
+
+Specials Scanning & Proxy
+
+Phreakers Anonymous Indonesia
+
+=====================================================================================================================
+
+Ip Address      Status  Type    Domain Name                     Server
+----------      ------  ----    -----------                     ------
+103.115.78.65   307     host    admin.shopee.co.id              SGW
+124.158.128.208         alias   api.shopee.co.id
+124.158.128.208         host    idc.api.shopee.co.id
+124.158.128.196         host    idc.api.shopee.co.id
+124.158.128.211         host    idc.api.shopee.co.id
+124.158.128.216         host    idc.api.shopee.co.id
+124.158.128.213         host    idc.api.shopee.co.id
+124.158.128.210         host    idc.api.shopee.co.id
+124.158.128.200         host    idc.api.shopee.co.id
+124.158.128.212         host    idc.api.shopee.co.id
+124.158.128.201         host    idc.api.shopee.co.id
+124.158.128.193         host    idc.api.shopee.co.id
+124.158.128.199         host    idc.api.shopee.co.id
+124.158.128.202         host    idc.api.shopee.co.id
+124.158.128.198         host    idc.api.shopee.co.id
+124.158.128.215         host    idc.api.shopee.co.id
+124.158.128.209         host    idc.api.shopee.co.id
+124.158.128.195         host    idc.api.shopee.co.id
+124.158.128.197         host    idc.api.shopee.co.id
+124.158.128.217         host    idc.api.shopee.co.id
+124.158.128.194         host    idc.api.shopee.co.id
+124.158.128.214         host    idc.api.shopee.co.id
+103.115.77.222  307     host    careers.shopee.co.id            SGW
+103.223.1.47    400     alias   cdn.shopee.co.id
+103.223.1.47    400     host    idc.cdn.shopee.co.id
+103.223.1.46    400     host    idc.cdn.shopee.co.id
+103.208.1.46    404     alias   cf.shopee.co.id                 NWS_Oversea_AP
+103.208.1.46    404     alias   route.idc.cf.shopee.co.id       NWS_Oversea_AP
+103.208.1.46    404     alias   tencent.cdn.shopee.co.id        NWS_Oversea_AP
+103.208.1.46    404     alias   cf.shopee.co.id.cdn.dnsv1.com   NWS_Oversea_AP
+103.208.1.46    404     alias   cf.shopee.co.id.cdn.ovscdns.com NWS_Oversea_AP
+103.208.1.46    404     host    cf.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+45.255.124.238  404     host    cf.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+103.208.1.44    404     host    cf.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+45.255.124.195  404     host    cf.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+103.208.1.43    404     host    cf.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+103.208.1.41    404     host    cf.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+45.255.124.219  404     host    cf.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+124.158.128.33  307     alias   chat.shopee.co.id               SGW
+124.158.128.33  307     host    idc.chat.shopee.co.id           SGW
+103.115.77.222  307     alias   cs.shopee.co.id                 SGW
+103.115.77.222  307     host    sg2.sgw.shopeemobile.com        SGW
+45.255.124.219  404     host    cv.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+45.255.124.195  404     host    cv.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+103.208.1.41    404     host    cv.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+103.208.1.44    404     host    cv.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+103.208.1.43    404     host    cv.shopee.co.id.dispatch.garena.sched.ovscdns.com       NWS_Oversea_AP
+13.111.18.27            host    email.shopee.co.id
+103.223.1.188   404     alias   f.shopee.co.id
+103.223.1.188   404     host    idc.f.shopee.co.id
+103.223.1.45    404     host    idc.f.shopee.co.id
+103.223.1.12    404     host    idc.f.shopee.co.id
+103.223.1.43    404     host    idc.f.shopee.co.id
+103.223.1.44    404     host    idc.f.shopee.co.id
+103.223.1.51    404     host    idc.f.shopee.co.id
+103.223.1.52    404     host    idc.f.shopee.co.id
+103.223.1.13    404     host    idc.f.shopee.co.id
+103.223.1.53    404     host    idc.f.shopee.co.id
+103.223.1.189   404     host    idc.f.shopee.co.id
+103.115.77.222  307     host    feeds.shopee.co.id              SGW
+103.223.1.43    404     alias   file.shopee.co.id
+103.223.1.43    404     alias   f.shopee.co.id
+103.223.1.43    404     host    idc.f.shopee.co.id
+103.223.1.51    404     host    idc.f.shopee.co.id
+103.223.1.53    404     host    idc.f.shopee.co.id
+103.223.1.12    404     host    idc.f.shopee.co.id
+103.223.1.45    404     host    idc.f.shopee.co.id
+103.223.1.44    404     host    idc.f.shopee.co.id
+103.223.1.189   404     host    idc.f.shopee.co.id
+103.223.1.52    404     host    idc.f.shopee.co.id
+103.223.1.188   404     host    idc.f.shopee.co.id
+103.223.1.13    404     host    idc.f.shopee.co.id
+103.115.77.222  307     host    games.shopee.co.id              SGW
+124.158.128.33  307     alias   help.shopee.co.id               SGW
+124.158.128.33  307     host    shopee.co.id                    SGW
+103.115.78.65   307     alias   intranet.shopee.co.id           SGW
+103.115.78.65   307     host    sg-eq.sgw.shopeemobile.com      SGW
+103.115.77.222  307     host    live.shopee.co.id               SGW
+124.158.128.33  307     host    local.shopee.co.id              SGW
+124.158.128.33  302     alias   mall.shopee.co.id               SGW
+124.158.128.33  302     alias   idc.mall.shopee.co.id           SGW
+124.158.128.33  302     host    shopee.co.id                    SGW
+103.223.1.115   301     alias   promo.shopee.co.id              nginx
+103.223.1.115   301     host    microsite.shopee.co.id          nginx
+143.92.64.131   307     host    staging.shopee.co.id            SGW
+143.92.64.129   307     host    test.shopee.co.id               SGW
+103.223.0.48            host    v.shopee.co.id
+124.158.128.33  302     alias   www.shopee.co.id                SGW
+124.158.128.33  302     alias   mall.shopee.co.id               SGW
+124.158.128.33  302     alias   idc.mall.shopee.co.id           SGW
+124.158.128.33  302     host    shopee.co.id                    SGW
