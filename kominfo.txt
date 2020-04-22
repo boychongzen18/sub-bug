@@ -1,0 +1,70 @@
+ _________    ___.            __________
+ /   _____/__ _\_ |__          \______   \__ __  ____
+ \_____  \|  |  \ __ \   ______ |    |  _/  |  \/ ___\
+ /        \  |  / \_\ \ /_____/ |    |   \  |  / /_/  >
+/_______  /____/|___  /         |______  /____/\___  /
+        \/          \/                 \/     /_____/
+
+
+Scanning Bughost & IP Shopee
+
+Creator Boychongzen aka Xroot
+
+Specials Scanning & Proxy
+
+Phreakers Anonymous Indonesia
+
+=====================================================================================================================
+
+Ip Address      Status  Type    Domain Name                     Server
+----------      ------  ----    -----------                     ------
+36.89.160.228   200     alias   bi.kominfo.go.id                nginx
+36.89.160.228   200     host    bi.dev.kominfo.siap.id          nginx
+202.89.117.86   302     host    conference.kominfo.go.id        Apache
+202.89.117.159  301     host    data.kominfo.go.id              Apache
+202.89.117.50           host    dev.kominfo.go.id
+202.89.117.182  302     host    hub.kominfo.go.id               Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.1.32
+180.250.112.33          host    imap.kominfo.go.id
+202.89.117.64   302     host    j.kominfo.go.id
+36.89.160.228   200     alias   lc.kominfo.go.id                nginx
+36.89.160.228   200     host    lc.dev.kominfo.siap.id          nginx
+202.89.117.60   503     host    ldap.kominfo.go.id
+202.89.117.69           host    m.kominfo.go.id
+180.250.112.33          host    mail.kominfo.go.id
+202.89.117.13           host    mail1.kominfo.go.id
+202.89.117.9            host    media.kominfo.go.id
+202.89.116.100  302     host    mr.kominfo.go.id
+180.250.112.22          host    mx1.kominfo.go.id
+202.89.117.31           host    nms.kominfo.go.id
+202.89.116.10           host    ns2.kominfo.go.id
+180.250.112.7           host    ns4.kominfo.go.id
+202.89.116.10           host    ns5.kominfo.go.id
+202.89.117.50           host    pm.kominfo.go.id
+180.250.112.33          host    pop3.kominfo.go.id
+202.89.117.56   301     host    portal.kominfo.go.id            Apache
+202.89.117.60   503     host    ldap.kominfo.go.id
+202.89.117.69           host    m.kominfo.go.id
+180.250.112.33          host    mail.kominfo.go.id
+202.89.117.13           host    mail1.kominfo.go.id
+202.89.117.9            host    media.kominfo.go.id
+202.89.116.100  302     host    mr.kominfo.go.id
+180.250.112.22          host    mx1.kominfo.go.id
+202.89.117.31           host    nms.kominfo.go.id
+202.89.116.10           host    ns2.kominfo.go.id
+180.250.112.7           host    ns4.kominfo.go.id
+202.89.116.10           host    ns5.kominfo.go.id
+202.89.117.50           host    pm.kominfo.go.id
+180.250.112.33          host    pop3.kominfo.go.id
+202.89.117.56   301     host    portal.kominfo.go.id            Apache
+202.89.117.10           host    proxy.kominfo.go.id
+202.89.117.64   302     host    radio.kominfo.go.id
+36.89.160.228   200     alias   sim.kominfo.go.id               nginx
+36.89.160.228   200     host    sim.dev.kominfo.siap.id         nginx
+180.250.112.33          host    smtp.kominfo.go.id
+118.97.137.115  200     host    submit.kominfo.go.id            Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16
+202.89.117.116  503     host    test.kominfo.go.id
+202.89.117.69           host    web.kominfo.go.id
+202.89.117.12   302     host    webmail.kominfo.go.id           nginx
+202.89.117.69           alias   www.kominfo.go.id               nginx
+202.89.117.69           host    kominfo.go.id                   nginx
+
