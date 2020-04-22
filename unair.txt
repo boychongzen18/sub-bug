@@ -1,0 +1,59 @@
+ _________    ___.            __________
+ /   _____/__ _\_ |__          \______   \__ __  ____
+ \_____  \|  |  \ __ \   ______ |    |  _/  |  \/ ___\
+ /        \  |  / \_\ \ /_____/ |    |   \  |  / /_/  >
+/_______  /____/|___  /         |______  /____/\___  /
+        \/          \/                 \/     /_____/
+
+
+Scanning Bughost & IP Unair
+
+Creator Boychongzen aka Xroot
+
+Specials Scanning & Proxy
+
+Phreakers Anonymous Indonesia
+
+=====================================================================================================================
+
+Ip Address      Status  Type    Domain Name                     Server
+----------      ------  ----    -----------                     ------
+210.57.208.54   301     host    apps.unair.ac.id                Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.0.33 SVN/1.7.14
+103.43.45.184           host    beta.unair.ac.id
+210.57.208.12   500     host    blog.unair.ac.id                Apache/2.2.14 (Fedora)
+210.57.208.13   200     host    blogs.unair.ac.id               LiteSpeed
+210.57.208.12   403     host    community.unair.ac.id           Apache/2.2.14 (Fedora)
+210.57.208.26   200     host    conference.unair.ac.id          Apache/2.4.6 (CentOS) PHP/5.4.16
+210.57.208.15   301     host    dev.unair.ac.id                 Apache
+210.57.208.9    302     host    devel.unair.ac.id               Apache
+210.57.214.90   302     host    exchange.unair.ac.id            Microsoft-IIS/8.5
+210.57.216.51   301     host    fk.unair.ac.id                  nginx
+210.57.208.12   503     host    forum.unair.ac.id               Apache/2.2.14 (Fedora)
+210.57.214.74           host    ftp.unair.ac.id
+210.57.214.74           host    ftp2.unair.ac.id
+210.57.208.69           host    h.unair.ac.id
+210.57.208.9    200     host    info.unair.ac.id                Apache
+210.57.208.9l   301     host    international.unair.ac.id       Apache
+210.57.208.9    200     host    km.unair.ac.id                  Apache
+210.57.214.94           host    lab.unair.ac.id
+210.57.222.80   301     host    lib.unair.ac.id                 Apache
+210.57.208.6    302     host    login.unair.ac.id               Apache
+210.57.214.90   302     alias   mail.unair.ac.id                Microsoft-IIS/8.5
+210.57.214.90   302     host    exchange.unair.ac.id            Microsoft-IIS/8.5
+210.57.208.10   200     host    mirror.unair.ac.id              Apache/2.2.15 (Fedora)
+210.57.208.21   200     host    news.unair.ac.id                Apache/2.4.6 (CentOS) PHP/7.2.17
+210.57.208.4    200     host    ns1.unair.ac.id                 Apache/2.2.3 (CentOS)
+210.57.216.2            host    ns2.unair.ac.id
+210.57.208.100  403     host    ns3.unair.ac.id                 Apache/2.2.15 (CentOS)
+210.57.208.39   302     host    qa.unair.ac.id                  Apache/2.4.6 (CentOS) PHP/7.2.26
+210.57.208.40   403     host    radio.unair.ac.id               Apache/2.4.6 (CentOS) PHP/7.3.16
+210.57.208.40   403     host    s.unair.ac.id                   Apache/2.4.6 (CentOS) PHP/7.3.16
+210.57.208.9    200     host    sa.unair.ac.id                  Apache
+210.57.208.12   200     host    sd.unair.ac.id                  Apache/2.2.14 (Fedora)
+210.57.208.13   200     host    training.unair.ac.id            LiteSpeed
+210.57.208.6    302     host    ua.unair.ac.id                  Apache
+210.57.208.61   200     host    voip.unair.ac.id                Apache/2.4.29 (Ubuntu)
+210.57.208.14   400     host    web.unair.ac.id                 Apache/2.2.15 (Fedora) DAV/2 PHP/5.2.13 mod_python/3.3.1 Python/2.6 mod_ssl/2.2.15 OpenSSL/0.9.8n-fips mod_perl/2.0.4 Perl/v5.10.0
+216.58.197.243  301     alias   webmail.unair.ac.id             ghs
+216.58.197.243  301     host    ghs.google.com                  ghs
+210.57.208.15   200     host    www.unair.ac.id                 Apache
