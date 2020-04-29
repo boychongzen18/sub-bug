@@ -1,0 +1,64 @@
+ _________    ___.            __________
+ /   _____/__ _\_ |__          \______   \__ __  ____
+ \_____  \|  |  \ __ \   ______ |    |  _/  |  \/ ___\
+ /        \  |  / \_\ \ /_____/ |    |   \  |  / /_/  >
+/_______  /____/|___  /         |______  /____/\___  /
+        \/          \/                 \/     /_____/
+
+
+Scanning Bughost & IP Undip
+
+Creator Boychongzen aka Xroot
+
+Specials Scanning & Proxy
+
+Phreakers Anonymous Indonesia
+
+=====================================================================================================================
+
+Ip Address      Status  Type    Domain Name                     Server
+----------      ------  ----    -----------                     ------
+182.255.1.53            host    about.undip.ac.id
+10.69.12.200            host    ad.undip.ac.id
+172.30.4.111            host    antivirus.undip.ac.id
+182.255.0.126           host    blog.undip.ac.id
+182.255.0.126           host    blog.undip.ac.id
+182.255.2.5             host    cloud.undip.ac.id
+182.255.0.126           host    community.undip.ac.id
+182.255.2.80            host    dc.undip.ac.id
+182.255.0.200           host    demo.undip.ac.id
+182.255.5.11            host    dns.undip.ac.id
+182.255.0.200           host    ee.undip.ac.id
+182.255.1.53            host    eng.undip.ac.id
+182.255.1.50            host    fk.undip.ac.id
+182.255.0.3             host    flash.undip.ac.id
+182.255.0.81            host    ftp.undip.ac.id
+182.255.5.201           host    gallery.undip.ac.id
+182.255.0.76            host    groups.undip.ac.id
+10.37.19.161            host    guest.undip.ac.id
+182.255.0.50            host    gw.undip.ac.id
+182.255.1.215           host    helpdesk.undip.ac.id
+182.255.1.53            host    hi.undip.ac.id
+182.255.2.102           host    ia.undip.ac.id
+182.255.1.53            host    io.undip.ac.id
+182.255.2.6             host    ix.undip.ac.id
+182.255.0.121           host    live.undip.ac.id
+182.255.5.201           host    lr.undip.ac.id
+182.255.1.50            host    me.undip.ac.id
+182.255.1.50            host    mm.undip.ac.id
+182.255.0.113           host    monitor.undip.ac.id
+10.69.12.10             host    monitoring.undip.ac.id
+10.37.19.19             host    mrtg.undip.ac.id
+182.255.1.50            host    mta.undip.ac.id
+182.255.0.117           host    multimedia.undip.ac.id
+10.69.12.5              host    nms.undip.ac.id
+182.255.0.50            host    ns.undip.ac.id
+182.255.1.53            host    office.undip.ac.id
+182.255.5.201           host    ph.undip.ac.id
+182.255.0.75            host    portal.undip.ac.id
+182.255.1.53            host    press.undip.ac.id
+182.255.0.242           host    proxy.undip.ac.id
+182.255.0.174           host    radio.undip.ac.id
+182.255.0.200           host    research.undip.ac.id
+182.255.1.53            host    sa.undip.ac.id
+182.255.0.200           host    sm.undip.ac.id
