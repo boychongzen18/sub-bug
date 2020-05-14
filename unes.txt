@@ -1,0 +1,39 @@
+  _________    ___.            __________
+ /   _____/__ _\_ |__          \______   \__ __  ____
+ \_____  \|  |  \ __ \   ______ |    |  _/  |  \/ ___\
+ /        \  |  / \_\ \ /_____/ |    |   \  |  / /_/  >
+/_______  /____/|___  /         |______  /____/\___  /
+        \/          \/                 \/     /_____/
+
+Scanning Bughost & IP unnes
+
+Creator Boychongzen aka Xroot
+
+Specials Scanning & Proxy
+
+Phreakers Anonymous Indonesia
+
+Ip Address      Status  Type    Domain Name                     Server
+----------      ------  ----    -----------                     ------
+104.26.5.12     302     host    agenda.unnes.ac.id              cloudflare
+103.23.100.207  200     host    api.unnes.ac.id                 Apache/2.4.10 (Debian)
+209.97.167.90   302     host    apps.unnes.ac.id                Apache/2.4.25 (Debian)
+104.26.5.12     200     host    blog.unnes.ac.id                cloudflare
+103.23.100.195  302     host    conf.unnes.ac.id                Apache/2.2.22 (Debian)
+103.23.100.133  302     host    ee.unnes.ac.id                  Apache
+103.23.100.133  200     host    email.unnes.ac.id               Apache
+103.23.100.248          host    files.unnes.ac.id
+118.97.9.50             host    forum.unnes.ac.id
+103.23.101.62           host    ids.unnes.ac.id
+103.23.100.29   302     host    ldap.unnes.ac.id                Apache/2.4.25 (Debian)
+103.23.100.60   302     host    lib.unnes.ac.id                 Apache/2.2.16 (Debian)
+103.23.100.30   200     host    library.unnes.ac.id             Apache/2.2.11 (Ubuntu) PHP/5.2.6-3ubuntu4.6 with Suhosin-Patch
+103.23.100.11           host    lists.unnes.ac.id
+103.23.100.100  200     host    login.unnes.ac.id               Apache/2.2.16
+103.23.100.10   200     host    ns2.unnes.ac.id                 Apache/2.2.22 (Debian)
+103.23.102.24           host    ns4.unnes.ac.id
+103.23.100.114          host    ntp.unnes.ac.id
+103.23.100.137          host    sms.unnes.ac.id
+103.23.102.211          host    test.unnes.ac.id
+103.23.100.99           host    testlab.unnes.ac.id
+103.23.100.133          host    tm.unnes.ac.id
