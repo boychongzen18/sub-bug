@@ -10,8 +10,6 @@ Download file Sub & Extrak filenya
 
 Cara Eksekusi di Windows :
 
-Download Python : https://shortid.co/bFWBm
-
 choco install unrar
 
 git clone https://github.com/boychongzen18/sub-bug.git
