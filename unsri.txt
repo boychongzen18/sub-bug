@@ -1,0 +1,40 @@
+ _________    ___.            __________
+ /   _____/__ _\_ |__          \______   \__ __  ____
+ \_____  \|  |  \ __ \   ______ |    |  _/  |  \/ ___\
+ /        \  |  / \_\ \ /_____/ |    |   \  |  / /_/  >
+/_______  /____/|___  /         |______  /____/\___  /
+        \/          \/                 \/     /_____/
+
+ Author : Boychongzen aka Xroot
+
+Ip Address      Status  Type    Domain Name                     Server
+----------      ------  ----    -----------                     ------
+202.3.218.138           host    communigate.unsri.ac.id
+202.3.218.138           host    community.unsri.ac.id
+202.3.218.138           host    compaq.unsri.ac.id
+202.3.218.138           host    compras.unsri.ac.id
+202.3.218.138           host    comunicare.unsri.ac.id
+202.3.218.138           host    comunicati.unsri.ac.id
+103.241.4.71            host    conf.unsri.ac.id
+103.241.4.56            host    conference.unsri.ac.id
+103.241.4.117           host    dev1.unsri.ac.id
+103.208.137.36  301     host    development.unsri.ac.id         nginx/1.10.3 (Ubuntu)
+103.241.4.43            host    download.unsri.ac.id
+103.241.4.130           host    file.unsri.ac.id
+103.208.137.149         host    fk.unsri.ac.id
+103.241.4.36    200     host    ftp.unsri.ac.id                 Apache
+103.241.4.44    200     host    ida.unsri.ac.id                 Apache
+103.241.4.69            host    lb.unsri.ac.id
+103.241.4.11    200     host    library.unsri.ac.id             nginx
+103.241.4.42            host    link.unsri.ac.id
+103.208.137.36  301     host    memphis.unsri.ac.id             nginx/1.10.3 (Ubuntu)
+103.241.4.2             host    ns1.unsri.ac.id
+103.241.5.2     401     host    ns2.unsri.ac.id                 Apache
+103.208.137.75          host    ns3.unsri.ac.id
+103.241.4.11    200     host    ns4.unsri.ac.id                 nginx
+103.241.4.36            host    s.unsri.ac.id
+103.241.4.11    200     host    staff.unsri.ac.id               nginx
+103.241.4.14            host    streaming.unsri.ac.id
+103.241.4.54            host    tf.unsri.ac.id
+103.241.4.41            host    tv.unsri.ac.id
+103.241.4.121           host    webmail.unsri.ac.id
