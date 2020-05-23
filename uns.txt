@@ -115,3 +115,13 @@ Ip Address      Status  Type    Domain Name                     Server
 203.6.148.2             host    ns1.uns.ac.id
 203.6.149.10            host    ns2.uns.ac.id
 36.86.63.182            host    ntp.uns.ac.id
+203.6.148.114           host    pittsburgh.uns.ac.id
+203.6.148.180   200     host    portal.uns.ac.id                nginx
+203.6.148.161           host    proxy.uns.ac.id
+103.23.225.16   302     host    ref.uns.ac.id
+203.6.148.166   301     host    rs.uns.ac.id                    nginx/1.14.2
+103.23.224.159  200     host    streaming.uns.ac.id
+103.23.224.28           host    vc.uns.ac.id
+103.23.226.15   302     host    video.uns.ac.id
+203.6.149.3             host    vpn.uns.ac.id
+203.6.148.165           host    vpn1.uns.ac.id
