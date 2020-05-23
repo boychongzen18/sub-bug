@@ -94,3 +94,24 @@ Ip Address      Status  Type    Domain Name                     Server
 36.86.63.182            host    mg.uns.ac.id
 36.86.63.182            host    mi.uns.ac.id
 36.86.63.182            host    michigan.uns.ac.id
+36.86.63.182            host    mis.uns.ac.id
+36.86.63.182            host    mk.uns.ac.id
+203.6.149.76    200     host    mm.uns.ac.id                    Apache/2.4.29
+203.6.148.242   200     host    mobile.uns.ac.id                nginx/1.2.0
+103.23.224.21           host    monitoring.uns.ac.id
+36.86.63.182            host    movies.uns.ac.id
+36.86.63.182            host    mozart.uns.ac.id
+36.86.63.182            host    mpeg.uns.ac.id
+36.86.63.182            host    mq.uns.ac.id
+36.86.63.182            host    ms.uns.ac.id
+36.86.63.182            host    ms-sql.uns.ac.id
+36.86.63.182            host    mssql0.uns.ac.id
+36.86.63.182            host    ne.uns.ac.id
+10.10.255.7             host    net.uns.ac.id
+103.23.224.234  301     host    netapp.uns.ac.id                nginx
+36.86.63.182            host    newmexico.uns.ac.id
+36.86.63.182            host    newsfeed.uns.ac.id
+36.86.63.182            host    newsfeeds.uns.ac.id
+203.6.148.2             host    ns1.uns.ac.id
+203.6.149.10            host    ns2.uns.ac.id
+36.86.63.182            host    ntp.uns.ac.id
