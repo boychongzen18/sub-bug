@@ -52,11 +52,14 @@ chmod +x subdomain.py
 
 python2 subdomain.py target.com
 
+
 ==============================================================================
 
 My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Link Tutorial Via VPS : https://youtu.be/sEDPg6LyWZw
+
+Link Tutorial Termux : https://youtu.be/3jpcI0pGZRo
 
 My Website : https://hackingforlive.wordpress.com
 
