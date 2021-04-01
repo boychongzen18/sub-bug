@@ -14,7 +14,7 @@ GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 ~/go/bin/subfinder -d bughost.com -o bughost.txt
 
-#############################
+##################################################
 
 chmod 700 -R bugscanner
 
@@ -29,3 +29,6 @@ bugscanner -h
 cd $home 
 
 bugscanner bughost.txt -p 443/80 -o bughost.txt
+
+
+Regards Boychongzen aka Xroot
