@@ -23,4 +23,4 @@ python2 subdomain.py target.com
 python2 subdomain.py -c target.com (save csv) 
 =============================================
 
-Regard Boychongzen aka Xroot
+Regards Boychongzen aka Xroot
