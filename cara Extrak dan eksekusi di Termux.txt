@@ -1,0 +1,23 @@
+cara Extrak via Termux
+
+install unrar & Eksekusi
+
+pkg update && pkg upgrade
+pkg install unrar
+pkg install git
+
+git clone https://github.com/boychongzen18/sub
+
+cara eksekusinya
+
+cd sub
+unrar x sub.rar sub
+cd sub
+pip2 install -r requirements.txt
+cd subdomain
+chmod +x subdomain.py
+python2 subdomain.py target.com
+
+====================================
+
+Regard Boychongzen aka Xroot
